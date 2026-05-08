@@ -1,0 +1,7 @@
+# SnapCode - Lightweight Code Snapshot Management Tool
+
+# Installation
+pip install -e .
+
+# Or run directly
+python snapcode.py --help
